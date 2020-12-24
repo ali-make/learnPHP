@@ -1,14 +1,14 @@
 # LearnPHP
 
-PHP dieksekusi di dalam server
-PHP bisa dibilang adalah server side language
+PHP dieksekusi di dalam server.
+PHP bisa dibilang adalah server side language.
 
-File PHP dapat bersisi HTML, CSS, JavaScript, dan PHP kode nya sendiri
+File PHP dapat bersisi HTML, CSS, JavaScript, dan kode PHP nya sendiri.
 
 Apa yang dapat dilakukan PHP:
 - PHP bisa membuat page content menjadi dinamik
 - PHP bisa membuat, membuka, membaca, menghapus, dan menutup file di server
-- PHP bisa mangambil form data
+- PHP bisa mangambil data dari form
 - PHP bisa mengirim dan menerima cookies
 - PHP bisa menambah, menghapus, memodifikasi data di dalam database
 - PHP bisa digunakan untuk mengontrol akses pengguna
