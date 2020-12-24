@@ -3,7 +3,7 @@
 PHP dieksekusi di dalam server.
 PHP bisa dibilang adalah server side language.
 
-File PHP dapat bersisi HTML, CSS, JavaScript, dan kode PHP nya sendiri.
+File PHP dapat berisi HTML, CSS, JavaScript, dan kode PHP nya sendiri.
 
 Apa yang dapat dilakukan PHP:
 - PHP bisa membuat page content menjadi dinamik
