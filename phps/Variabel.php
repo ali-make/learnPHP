@@ -7,9 +7,9 @@
  */
 function hello()
 {
-    $say = "pagii";
+    $say = "pagi,";
 
-    echo "selamat " . $say . "\n";
+    echo "selamat " . $say . " ";
 }
 
 // error disini
