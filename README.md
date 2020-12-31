@@ -29,3 +29,17 @@ Aturan membuat variabel PHP:
 - nama variabel tidak boleh diawali dengan nomer
 - nama variabel hanya dapat terdiri dari apha-numeric karakter dan underscore (A-z, 0-9, dan _ )
 - nama variabel bersifat case_sensitive (itu berarti tulisan huruf besar dan kecil debedakan)
+
+## PHP Data Types
+
+Variabel dapat menyimpan data dari berbagai tipe data, dan masing-masing tipe data dapat melakukan masing-masing hal.
+
+PHP mendukung beberapa tipe data dibawah:
+- String
+- Integer
+- Float (floating point numbers - biasa disebut double)
+- Boolean
+- Array
+- Object
+- Null 
+- Resource
